@@ -1,0 +1,18 @@
+a=[1,2,3,4,6]
+b=[1,0]
+print(a)
+
+a[4]=b
+print("the udpated values",a)
+
+a.append(6)
+print(a)
+
+a.remove(2)
+print(a)
+
+a.insert(1,20)
+print(a)
+
+a.pop(5)
+print(a)
