@@ -1,0 +1,3 @@
+a=("hello","oh","pot")
+print(a)
+print(len(a))
