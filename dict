@@ -1,0 +1,11 @@
+a={"name":"ram","age":"65","year":"2006"}
+print(a)
+
+a["age"]=69
+print(a)
+
+del a["age"]
+print(a)
+
+a["year"]=2010
+print(a)
